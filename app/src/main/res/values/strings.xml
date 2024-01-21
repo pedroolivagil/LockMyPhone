@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LockMyPhone</string>
+    <string name="app_widget_name">LockMyPhone</string>
+    <string name="lock_device">Lock device</string>
+    <string name="exit_app">Close</string>
+    <string name="required_lock_permission">Permission required to lock device</string>
+</resources>
